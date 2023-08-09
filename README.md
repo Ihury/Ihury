@@ -3,14 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ihury&label=Profile%20views&color=0e75b6&style=flat" alt="ihury" /> </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="margin-right: 10px;">
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihury&show_icons=true&theme=dracula&locale=en" alt="ihury" /></p>
-    </div>
-    <div style="margin-left: 10px;">
-        <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ihury&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ihury" /></p>
-    </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihury&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ihury" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihury&show_icons=true&theme=dracula&locale=en" alt="ihury" /></p>
 
 &nbsp;
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihury" alt="ihury" /></a> </p>
