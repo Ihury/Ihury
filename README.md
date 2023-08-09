@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihury" alt="ihury" /></a> </p>
 
 - 📫 How to reach me **ihurykc@gmail.com**
-- ️💬 My Discord user: **@ihury**
+- ️💬 My Discord user: [@ihury](https://discord.com/users/586731843848503356/profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
