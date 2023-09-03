@@ -13,6 +13,11 @@
 - 📫 How to reach me **ihurykc@gmail.com**
 - ️💬 My Discord user: [@ihury](https://discord.com/users/586731843848503356/profile)
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/e88ed92f-c9d1-499a-9f25-790ff23a5ce4/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ihury" height="100" width="100" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ihury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihury" height="30" width="40" /></a>
